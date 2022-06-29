@@ -21,3 +21,6 @@
 
 ## Career Engagement Network:
 [Career Engagement Nework](https://careernetwork.2u.com/?utm_medium=BCSMilestones&utm_source=boot_camp)
+
+## Student Teams to Teaching Assistants
+![Students to TAs](./Images/Student%20Teams%20to%20Teaching%20Assistants.png)
