@@ -4,4 +4,10 @@ Note: this material is not to be shared. This is bonus support provided by your 
 
 * Module 2: VBA of Wall Street ![Module 2: VBA of Wall Street](./Images/VBA_WallStreet.png)
   - Video 1 - Inital Analysis (https://zoom.us/rec/share/LpOqSATLNamBQ4MBCmUWnGcts3lezZClHUIMSZN0GYWBn_CrGJg9Fe8kJylX7pyn.yiIMi4ChwB6s-w57?startTime=1637335741000)
-  - Video 2 - Refactoring Analysis (https://zoom.us/rec/share/GCqs10QONVaing6uzSyJ5YXyQEJ8WKVKjlWOqLoRWd_ERW2C2buTeJA8aPwZoPsB.MhSWqG5LCrQrmyK4?startTime=1637415343000)  - 
+  - Video 2 - Refactoring Analysis (https://zoom.us/rec/share/GCqs10QONVaing6uzSyJ5YXyQEJ8WKVKjlWOqLoRWd_ERW2C2buTeJA8aPwZoPsB.MhSWqG5LCrQrmyK4?startTime=1637415343000)
+
+<br>
+
+* Module 3: PyPoll with Python ![Module 3: PyPoll with Python](./Images/PyPoll.png)(https://zoom.us/rec/play/NgqSdBoLLRs-J-X_bDsJ3z8hp7nnZSRnMHnydAwDfEA26-uBzA4ijxX8Qo0m8-Acoz4QEA7Y7TyV1_Ze.TDxvnbUcra0DXwT3?startTime=1636569115000)
+
+<br>
